@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lizavetion.github.io/group10_icecream",
+  "homepage": "https://SvyrydovFedir.github.io/icecream",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /group10_icecream/"
